@@ -1,7 +1,7 @@
 -- Here you can set npc entry, name, subname, gossip_menu_id, displayID
 SET @NpcEntry := 180005;
 SET @NpcName := 'The Beastmaster';
-SET @NpcSubName := 'Ashen WoW';
+SET @NpcSubName := '';
 SET @NpcDisplayID := 30883;
 SET @GossipOptionID := 50030;
 SET @GOSSIP_ICON_TRAINER := 0;
